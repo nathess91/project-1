@@ -76,12 +76,14 @@ Your app must:
 
 ### Game Types
 
-**Racing game**: we suggest and expect that most of you will build a **racing game**. Two or more players should be able to use the keyboard to move their "cars" across the browser window.
+####Racing Game
+
+**We suggest and expect that most of you will build a racing game**. Two or more players should be able to use the keyboard to move their "cars" across the browser window.
 
 <img src="https://media.giphy.com/media/mHChlbqGMndYY/giphy.gif" width="60%">
 
 
-#### Something Else!
+#### Something Else
 
 If you're comfortable with the technologies we're using and you have a fully-fledged plan, you can build a substantially different game. Definitely only build a game that you are familiar with. Make sure you get your plan approved by an instructor if you want to build a non-racing game. 
 
