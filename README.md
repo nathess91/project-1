@@ -4,20 +4,6 @@
 
 **Read this entire document before writing a line of code.**
 
-### Contents
-
-* **[Overview](#overview)**
-* **[Essential Skills](#essential-skills)**
-* **[Timeline](#timeline)**
-* **[Technical Requirements](#technical-requirements)**
-* **[Deliverables](#deliverables)**
-* **[Getting Started](#getting-started)**
-* **[Game Suggestions](#game-suggestions)**
-* **[Extra Challenge Ideas](#extra-challenge-ideas)**
-* **[Resources](#resources)**
-* **[Project Feedback](#project-feedback)**
-
-
 ### Overview
 
 Let's start out with something fun - **a game!**
@@ -88,20 +74,16 @@ Your app must:
 
 ---
 
-### Game Suggestions
+### Game Types
 
-We suggest and expect that most of you will build a racing game. 
+**Racing game**: we suggest and expect that most of you will build a **racing game**. Two or more players should be able to use the keyboard to move their "cars" across the browser window.
 
-#### Racing Game
-
-<img src="https://media.giphy.com/media/mHChlbqGMndYY/giphy.gif" width=400>
-
-Build a **Racing Game**, where two or more players can use the keyboard to move their "cars" across the browser window.
+<img src="https://media.giphy.com/media/mHChlbqGMndYY/giphy.gif" width="60%">
 
 
 #### Something Else!
 
-If you're comfortable with the technologies we're using and you have a fully-fledged plan, you can build a substantially different game. Make sure you get your plan approved by an instructor if you want to build anything else. 
+If you're comfortable with the technologies we're using and you have a fully-fledged plan, you can build a substantially different game. Definitely only build a game that you are familiar with. Make sure you get your plan approved by an instructor if you want to build a non-racing game. 
 
 <details><summary>Click this paragraph to see other potentail game ideas.</summary>
 
@@ -120,8 +102,6 @@ Create a deck of flash cards that have prompts on one side and answers on the ot
 
 
 ##### Battleship
-
-<img src="http://blogs-images.forbes.com/erikkain/files/2012/02/battleship-board-game.jpg" width="50%">
 
 The player can challenge the computer, each taking turns trying to sink the other's ships. The one who sinks the other's ships first wins! The game board should show the player's fleet with hit trackers. It should also show a map of where the player's guesses have hit and missed.
 
