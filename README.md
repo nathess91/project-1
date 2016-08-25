@@ -88,10 +88,25 @@ Your app must:
 
 ### Game Suggestions
 
+Pick one of the following games to develop:
+
+ * [racing game](#racing-game)
+
+ * [connect 4](#connect-4)
+
+ * [battleship](#battleship)
+
 #### Racing Game
 
-Build a **Racing Game**, where two players can use the keyboard to move their "cars" across the browser window.
+<img src="https://media.giphy.com/media/mHChlbqGMndYY/giphy.gif" width=400>
 
+Build a **Racing Game**, where two or more players can use the keyboard to move their "cars" across the browser window.
+
+##### Connect 4
+
+<img src="http://www.hamleys.com/images/_lib/connect-4-grid-10222-0-1417083604000.jpg" width=300>
+
+Two players take turns selecting a column to drop their piece down. The first player to achieve 4 of their color in a row wins.
 
 #### Something Else!
 Make sure you get the approval of an instructor if you choose anything else.
@@ -106,10 +121,24 @@ The player types letters that appear one-by-one on the screen. They score points
 The player bets money (or points) on guessing which card the computer will deal next. The computer deals randomly.
 
 ##### Flash Cards
+
+<img src="https://cloud.githubusercontent.com/assets/3254910/17958318/af0e7460-6a4d-11e6-8ade-a71a0796fe44.png" alt="flash cards in a basket by Stephen Depolo on flickr" width="30%">
+
+
 Create a deck of flash cards that have prompts on one side and answers on the other.  After seeing each answer, a player can choose to either keep the card in the deck for more practice or decide they remember it well and remove it from the deck. Once the player has remembered all cards in the deck, they get a win screen.
 
+
 ##### Battleship
-The player can challenge the computer, each taking turns trying to sink the other's ships. The one who sinks the other's ships first wins!
+
+<img src="http://blogs-images.forbes.com/erikkain/files/2012/02/battleship-board-game.jpg" width=300>
+
+The player can challenge the computer, each taking turns trying to sink the other's ships. The one who sinks the other's ships first wins! The game board should show the player's fleet with hit trackers. It should also show a map of where the player's guesses have hit and missed.
+
+
+**Hints**
+* Start with just one size of ship.  
+* Start by building a one-dimensional battleship game.  
+* Don't let the player decide where to place their ships, to start.
 
 ---
 
