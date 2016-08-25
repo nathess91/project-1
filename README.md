@@ -8,7 +8,7 @@
 
 Let's start out with something fun - **a game!**
 
-Everyone will get a chance to **be creative**, and work through some really **tough programming challenges** – since you've already gotten your feet wet with Tic Tac Toe and a Memory game, it's up to you to come up with a fun and interesting game to build.
+Everyone will get a chance to **be creative**, and work through some really **tough programming challenges** – since you've already gotten your feet wet with Tic Tac Toe and a Memory game, it's your turn to plan and implement a game from scratch.
 
 **You will be working individually for this project**, but we'll be guiding you as you get started. Show us what you've got!
 
