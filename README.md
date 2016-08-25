@@ -26,6 +26,15 @@ Everyone will get a chance to **be creative**, and work through some really **to
 
 **You will be working individually for this project**, but we'll be guiding you as you get started. Show us what you've got!
 
+
+---
+
+### Timeline
+
+* **Assigned:** Friday, August 26th
+* **Due:** Monday, August 29th at 9:00AM
+
+
 ---
 
 ### Essential Skills
@@ -37,13 +46,6 @@ By the time you submit this project, you will have leveled up in many big themes
 * **JavaScript Fundamentals**: Work with objects and events, while strategically solving problems and resolving errors.
 * **Front-End**: Work on HTML structure, CSS styles, and perhaps even animating elements within a browser. Respond to actions your users take and the data they input into the browser.
 * **Documentation**: Document your code and your GitHub repository so others understand what you've built.
-
----
-
-## Timeline
-
-* **Assigned:** Friday, August 26th
-* **Due:** Monday, August 29th at 9:00AM
 
 ---
 
@@ -88,13 +90,7 @@ Your app must:
 
 ### Game Suggestions
 
-Pick one of the following games to develop:
-
- * [racing game](#racing-game)
-
- * [connect 4](#connect-4)
-
- * [battleship](#battleship)
+We suggest and expect that most of you will build a racing game. 
 
 #### Racing Game
 
@@ -102,14 +98,12 @@ Pick one of the following games to develop:
 
 Build a **Racing Game**, where two or more players can use the keyboard to move their "cars" across the browser window.
 
-##### Connect 4
-
-<img src="http://www.hamleys.com/images/_lib/connect-4-grid-10222-0-1417083604000.jpg" width=300>
-
-Two players take turns selecting a column to drop their piece down. The first player to achieve 4 of their color in a row wins.
 
 #### Something Else!
-Make sure you get the approval of an instructor if you choose anything else.
+
+If you're comfortable with the technologies we're using and you have a fully-fledged plan, you can build a substantially different game. Make sure you get your plan approved by an instructor if you want to build anything else. 
+
+<details><summary>Click this paragraph to see other potentail game ideas.</summary>
 
 ##### Trivia
 Test your wits & knowledge with whatever-the-heck you care about. The player can guess answers and have the computer validate them!
@@ -122,15 +116,12 @@ The player bets money (or points) on guessing which card the computer will deal 
 
 ##### Flash Cards
 
-<img src="https://cloud.githubusercontent.com/assets/3254910/17958318/af0e7460-6a4d-11e6-8ade-a71a0796fe44.png" alt="flash cards in a basket by Stephen Depolo on flickr" width="30%">
-
-
 Create a deck of flash cards that have prompts on one side and answers on the other.  After seeing each answer, a player can choose to either keep the card in the deck for more practice or decide they remember it well and remove it from the deck. Once the player has remembered all cards in the deck, they get a win screen.
 
 
 ##### Battleship
 
-<img src="http://blogs-images.forbes.com/erikkain/files/2012/02/battleship-board-game.jpg" width=300>
+<img src="http://blogs-images.forbes.com/erikkain/files/2012/02/battleship-board-game.jpg" width="50%">
 
 The player can challenge the computer, each taking turns trying to sink the other's ships. The one who sinks the other's ships first wins! The game board should show the player's fleet with hit trackers. It should also show a map of where the player's guesses have hit and missed.
 
@@ -139,6 +130,8 @@ The player can challenge the computer, each taking turns trying to sink the othe
 * Start with just one size of ship.  
 * Start by building a one-dimensional battleship game.  
 * Don't let the player decide where to place their ships, to start.
+
+</details>
 
 ---
 
