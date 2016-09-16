@@ -48,7 +48,7 @@ Your app must:
 * **Break the project down into different components** Create user-stories, draw wireframes, and write pseudocode! Spend a lot of time on this.
 * **Use your Development Tools** (debugging, global variables, console.log, etc) to solve problems
 * **Reference lessons** in class & ask questions to TAs & Instructors when you need to!
-* **Commit often!** Commit *at least* every time to complete a user story. Then you don’t have to be afraid to break something, as you can always go back in time to older version.
+* **Commit often!** Commit *at least* every time you complete a user story. That way you don’t have to be afraid of breaking your code, as you can always rollback to an older version.
 * **Consult documentation resources** (MDN, jQuery, etc.) to better understand what you’ll be getting into.
 * **Don’t be afraid to write code that you know you will have to remove later.** You are encouraged to create temporary elements (buttons, links, etc) that trigger events if real data is not available. For example, if you’re trying to figure out how to change some text when the game is over but you haven’t solved the win/lose game logic, you can create a button to simulate it until then.
 
@@ -65,7 +65,13 @@ Your app must:
 
 ### Stretch Goals
 
-When you have completed all of the core requirements for the game (listed above), we encourage you to try some stretch goals. 
+When you have completed all of the core requirements for the game (listed above), we encourage you to try some stretch goals:
+
+
+<details>
+<summary>**Stretch Goals** (Click Here)</summary>
+<br>
+**DO NOT ATTEMPT BONUSES UNTIL YOU HAVE A WORKING [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product)**
 
 **Arbitrary Restrictions** (to make you a better programmer):
 
@@ -81,8 +87,7 @@ When you have completed all of the core requirements for the game (listed above)
 * Display a timer / winning time
 * Allow player customization (like name, avatar, color)
 * Randomize an initial value (pick a random color, shuffle the order of cards)
-
-**DO NOT ATTEMPT BONUSES UNTIL YOU HAVE A WORKING [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product)**
+</details>
 
 ---
 
