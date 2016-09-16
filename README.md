@@ -1,14 +1,19 @@
-![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project #1
 
-# Project #1: The Game
+## Make a game!
 
 ### Overview
 
-Let's start out with something fun - **a game!**
+For this project, you'll be creating a familiar game with HTML and JS! Please choose one of the following:
 
-Everyone will get a chance to **be creative**, and work through some really **tough programming challenges** – since you've already gotten your feet wet with Tic Tac Toe, it's up to you to come up with a fun and interesting game to build.
+* [**Flash Cards (self-scoring)**](https://en.wikipedia.org/wiki/Flashcard)
+* [**Concentration**](https://en.wikipedia.org/wiki/Concentration_(game))
+* [**Battleship**](https://en.wikipedia.org/wiki/Battleship_(game))
+* [**Connect 4**](https://en.wikipedia.org/wiki/Connect_Four)
+* [**Tower of Hanoi**](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
+* You can also _choose your own adventure_, but you are required to get instructor approval!
 
-**You will be working individually for this project**, but we'll be guiding you along the process and helping as you go. Show us what you've got!
+This is an opportunity to **be creative**, and work through some **tough programming challenges**.
 
 
 ---
@@ -17,12 +22,13 @@ Everyone will get a chance to **be creative**, and work through some really **to
 
 Your app must:
 
-* **Render a game in the browser**
+* **Render a beautiful game in the browser** and be **easy to use**
 * **Design logic for winning** & **visually display which player won**
 * **Include separate HTML / CSS / JavaScript files**
 * Stick with **KISS (Keep It Simple Stupid)** and **DRY (Don't Repeat Yourself)** principles
 * Use **Javascript or jQuery** for **DOM manipulation**
-* **Deploy your game online**, where the rest of the world can access it (there will be a quick tutorial on this later in the week)
+* Use **OOP Design** (at least 2 custom Constructors)
+* **Deploy your game online**, where the rest of the world can access it using [bitballoon](https://www.bitballoon.com/)
 * Use **semantic markup** for HTML and CSS (adhere to best practices)
 
 ---
@@ -32,9 +38,10 @@ Your app must:
 * A **working game, built by you**, hosted somewhere on the internet
 * A **link to your hosted working game** in the URL section of your Github repo
 * A **git repository hosted on Github**, with a link to your hosted game, and frequent commits dating back to the very beginning of the project
-* **A `readme.md` file** with explanations of the technologies used, the approach taken, installation instructions, unsolved problems, etc.
+* **A `README.md` file** with explanations of the technologies used, current features, project roadmap, installation instructions, and game-play instructions.
 
 ---
+
 
 ### Suggested Ways to Get Started
 
@@ -47,37 +54,35 @@ Your app must:
 
 ---
 
-### Suggestions
-
-##### Blackjack
-User bets money on guessing which card the computer will deal next!
-
-##### Typing Race
-The user has to type letters that appear on the screen. They score points for every correct letter and advance their racer character across the screen!
-
-##### Trivia
-Test your wits & knowledge with whatever-the-heck you care about. User can guess answers and have the computer validate them!
-
-##### Concentration (Memory)
-A card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. User should be able to pick the cards and win once they matched them all!
-
-##### Battleship
-User can challenge the computer, each takes a turn trying to sink the other ships. The player who sinks the other player's ships first wins!
-
-##### Flash Cards
-Make some flash cards to drill yourself on Web Development concepts (or whatever you want)! You should have a "deck" of flash cards that you can shuffle (or are randomized them in some way). The user should be able to click one of two buttons, depending if they feel they remember this answer well enough (removing it from the deck) or if they need to keep reviewing it (putting it on the bottom of the stack). A user could keep going until they have "remembered" all cards in the deck and see a win screen. 
-
-##### Something Else!
-Make sure you get the approval of your [squad](http://bit.ly/1nZsVo9)'s instructor if you choose anything else.
-
----
-
 ### Useful Resources
 
 * **[MDN Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)** _(the best reference for all things Javascript, CSS, and HTML)_
 * **[jQuery Docs](http://api.jquery.com)** _(if you're using jQuery)_
 * **[CSS Animations](https://css-tricks.com/almanac/properties/a/animation/)**_(add a little pizzazz to your game)_
 * **[Bit Balloon](https://www.bitballoon.com/docs)** _(hosting the game)_
+
+---
+
+### Stretch Goals
+
+When you have completed all of the core requirements for the game (listed above), we encourage you to try some stretch goals. 
+
+**Arbitrary Restrictions** (to make you a better programmer):
+
+* Do not use more than 3 html `id` attributes anywhere in your code.
+* Do not put _anything_ in the global scope (except for Constructors).
+* Do not use numbered variables (e.g. `player1`, `card_one`, or `cardA`)
+* Do not use `console.log()`, `alert()`, or `prompt()` anywhere in your code.
+
+**Bonus Ideas**:
+
+* Reset the game without refreshing
+* Keep track of total score / high score / wins
+* Display a timer / winning time
+* Allow player customization (like name, avatar, color)
+* Randomize an initial value (pick a random color, shuffle the order of cards)
+
+**DO NOT ATTEMPT BONUSES UNTIL YOU HAVE A WORKING [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product)**
 
 ---
 
@@ -103,3 +108,4 @@ Make sure you get the approval of your [squad](http://bit.ly/1nZsVo9)'s instruct
     **3** | _Exceeds expectations, you wonderful creature, you!_
 
  This will serve as a helpful overall gauge of whether you met the project goals, but __the more important scores are the individual ones__ above, which can help you identify where to focus your efforts for the next project!
+
